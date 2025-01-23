@@ -1,6 +1,3 @@
-Here's a README for your GitHub profile:
-
-```markdown
 # Hi there, I'm Bhawneet! 👋
 
 Welcome to my GitHub profile! I'm a student at Thapar University with a passion for coding, learning new technologies, and creating animations. Here's a little about me:
@@ -25,10 +22,5 @@ Welcome to my GitHub profile! I'm a student at Thapar University with a passion 
 ## Let's Connect! 🤝
 
 - [LinkedIn](https://www.linkedin.com/in/bhawneet-singh-79203b275/)
-
----
-
+  
 Thank you for visiting my profile! Have a great day! 😊
-```
-
-Feel free to customize it further if needed!
