@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a student at Thapar University with a passion 
 
 ## Languages and Tools 🛠️
 
-![Languages and Tools](https://skillicons.dev/icons?i=c,cpp,js,react,python,r,Javascript,html,css)
+![Languages and Tools](https://skillicons.dev/icons?i=c,cpp,js,react,python,r,bootstrap,tailwind,html,css)
 
 ## Let's Connect! 🤝
 
