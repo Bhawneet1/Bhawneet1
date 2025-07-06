@@ -2,7 +2,8 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning)
+
 
 </div>
 
@@ -157,14 +158,6 @@ mindmap
 
 </div>
 
----
-
-<div align="center">
-
-  
-![Snake Animation](https://github.com/Bhawneet1/Bhawneet1/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ### ⭐ *If you like what you see, don't forget to star my repositories!*
 
