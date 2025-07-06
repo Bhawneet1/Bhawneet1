@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Bhawneet Singh from Thapar<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning MERN stack , AI , ML, Data science<br>- ⚡ In my free time like to make projects and work on my skills</p>
+<p align="left">I'm Bhawneet Singh from Thapar<br><br>- 🔭 I'm working as student<br>- 📚 I'm currently learning MERN stack , AI , ML, Data science<br>- ⚡ In my free time like to make projects and work on my skills</p>
 
 ###
 
@@ -47,9 +47,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="mongodb logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="express logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
   <img width="8" />
