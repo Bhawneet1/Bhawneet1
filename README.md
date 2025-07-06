@@ -160,8 +160,11 @@ mindmap
 ---
 
 <div align="center">
+
   
 ![Snake Animation](https://github.com/Bhawneet1/Bhawneet1/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ### ⭐ *If you like what you see, don't forget to star my repositories!*
 
