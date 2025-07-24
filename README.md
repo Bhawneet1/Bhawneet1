@@ -2,8 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI/ML+Enthusiast;Data+Science+Explorer)
 
 </div>
 
@@ -80,8 +79,7 @@ const bhawneet = {
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bhawneet1&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Bhawneet's GitHub stats" />
-
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bhawneet1&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawneet1&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
@@ -155,6 +153,7 @@ mindmap
 [![Email](https://img.shields.io/badge/Drop_me_a_line-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bhwneetsingh2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhawneet-singh-79203b275/)
 [![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917527996093)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://bhawneetportfolio.netlify.app/)
 
 </div>
 
