@@ -87,7 +87,7 @@ const bhawneet = {
 <div align="center">
   
 <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhawneet1&theme=dark&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak][(https://streak-stats.demolab.com?user=Bhawneet1&theme=dark&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)](https://streak-stats.demolab.com/?user=Bhawneet1&theme=dark&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 <!-- Fallback if above badge doesn't work (optional) -->
 <!--
